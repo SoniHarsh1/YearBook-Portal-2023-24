@@ -23,29 +23,9 @@ Welcome to the Yearbook Portal, a full-stack application specifically designed a
 
 ---
 
-### **Comtributors**
+### **Contributors**
 1. Aditi Ganvir
-2. Agrima Bundela
-3. Harsh Soni
-4. Tarun Soni
-5. Ayush Awasthi
-6. Ashutosh Samantharay
-
----
-![Step_3](https://github.com/aditiganvir28/Alumni-Cell-Yearbook-Portal/assets/100085991/2efc1347-12c7-4606-81c1-7d7b81bc30bf)
-
-![Step_5](https://github.com/aditiganvir28/Alumni-Cell-Yearbook-Portal/assets/100085991/395ffa04-99d6-48c3-af0f-0a575de9060d)
-
-![step2](https://github.com/aditiganvir28/Alumni-Cell-Yearbook-Portal/assets/100085991/6537911f-c3cd-4ca1-bfae-2a919322a783)
-
-![Step_1](https://github.com/aditiganvir28/Alumni-Cell-Yearbook-Portal/assets/100085991/aae164d2-ac92-476b-af68-04377c484e68)
-
-![Step_4](https://github.com/aditiganvir28/Alumni-Cell-Yearbook-Portal/assets/100085991/aed92fcc-16d0-461a-bd6e-1a7a9f616b8f)
-
-
-
-
-
-  
-Portal is live now! <br/>
-<a href="https://alumni-cell-yearbook-portal-1.vercel.app/">yearbookportal-iiti.co.in</a>
+2. Harsh Soni
+3. Tarun Balaji
+4. Ayush Awasthi
+5. Prachi Patil
